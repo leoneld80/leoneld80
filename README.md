@@ -15,7 +15,7 @@
   
 * 🔭 I’m currently working at [Clinica Privada del Carmen](https://www.clinicadelcarmen.com.ar/)
 
-* 🌱 I’m currently learning **React**
+* 🌱 I’m currently learning **React Native**
 
 * 📫 Mail me: **leoneld80@gmail.com**
 
