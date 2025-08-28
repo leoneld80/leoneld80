@@ -13,9 +13,9 @@
 
 ### 🧔 About Me :
   
-* 🔭 I’m currently working at [Clinica Privada del Carmen](https://www.clinicadelcarmen.com.ar/)
+* 🔭 I’m currently working at [AstroDevs]
 
-* 🌱 I’m currently learning **React Native**
+* 🌱 I’m currently learning **React**
 
 * 📫 Mail me: **leoneld80@gmail.com**
 
